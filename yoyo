@@ -1,0 +1,309 @@
+Cloud Computing
+Computing paradigm that refers to the process of engaging a remote network of computers, usually referred to as servers, to manage, store and process data through the internet. A basic cloud vocabulary referring to cloud applications like Google Drive, Dropbox are used in facilitating this. Key Characteristics:
+On-demand self service
+Broad network access
+Resource pooling
+Rapid elasticity
+Measured service
+Deployment Models:
+Private Cloud
+Community Cloud
+Public Cloud
+Hybrid Cloud
+NIST’s definition
+Adaptive Enterprise
+An organization in which services or goods demand and supply are synchronized and matched at all times. Adaptive enterprises are highly flexible and are capable of changing of adjusting in almost real-time by changing practices and routines in response to environmental changes. It not only successfully weathers through altering environments, but leads the charge through the change and emerges on top. This attracts and retains a loyal customer base in the long run. Adaptive organizations constantly evolve with changes in the global economy so that their services or products never being obsolete.
+AWS GovCloud
+An AWS Cloud terminology that refers to an isolated data center region of the Amazon Web Services (AWS) cloud specifically designed to meet stringent requirements as defined by the U.S. Government. With this cloud service, US citizens can run sensitive workloads that conform to strict regulatory standards, such as the Federal Risk and Authorization Management Program (FedRAMP), the International Traffic in Arms Regulations (ITAR), and the Department of Defense (DoD) Cloud Computing Security Requirements Guide (SRG) Levels 2 and 4. The AWS GovCloud grants access to U.S. Citizens who comply with export regulations and laws and are not subject to export restrictions.
+Artificial Intelligence as a Service (AIaaS)
+A third party offering of Artificial Intelligence (AI) outsourcing that enables organizations and individuals to experiment with language, vision and speech understanding capabilities without a huge initial investment and with lower risk. AI typically involves a vast range of algorithms that allow computers to solve complex tasks by generalizing over data. AI as a service allows users to upload data, run complex models in the cloud and receive results via a cloud platform or API, significantly reducing development time while improving the time-to-value.
+Auto Scaling
+A cloud computing feature that automatically scales up or down the number of computing resources being allocated to your application based on its computing requirements at any given moment. Autoscaling ensures that new instances are continuously increased during demand spikes are reduced during demand drops, guaranteeing lowered costs and consistent performance. Services like the AWS Auto Scaling service allows end-users to configure one unified scaling policy per application source, like a set of resource tags or an AWS CloudFormation stack.
+Amazon Web Services (AWS)
+A suite of cloud computing services offered by Amazon. There services span IaaS, PaaS and SaaS models of cloud computing. Popular AWS services include Amazon S3, Amazon Elastic Beanstalk and Amazon EC2.
+Application Programming Interface (API)
+An interface that enables users to access information from other services or applications and integrate this information into their own application. The access is granted via a set of defined requests, routines and protocols. APIs have become essential tools for building software.
+Availability Zones
+A common data center terminology, availability zones are data center locations isolated from each other as a safeguard against unexpected outages leading to downtime. The zones are typically geographically distinct. Businesses can opt to have one or multiple availability zones globally depending on their specific needs.
+Backend as a Service (BaaS/mobile backend/mBaaS)
+A cloud computing model where mobile developers are provided with the tools and services they require to create a cloud backend for their applications. Using mBaaS, developers can link their apps to backend cloud storage while leveraging features such as push notifications, user management and integration with social media. The service is made available via custom application programming interfaces (APIs) and software development kits (SDKs). BaaS
+fig 1.0
+
+Big data
+A phrase used to refer to the large volume of structured, semi-structured and unstructured data that is difficult to mine using traditional software and database techniques. Big data is typically characterized by 3v’s- Volume of data, Variety of data types, and the Velocity at which the data has to be processed.
+John Akred, Founder and CTO of Silicon Valley Data Science describes it as
+
+ 
+“A combination of an approach to informing decision making with analytical insight derived from data, and a set of enabling technologies that enable the insight to be economically derived from at times very large, diverse sources of data”
+Cloud Application (or cloud app)
+A common part of cloud glossary referring to an external service or program residing on the cloud or hosted by third party computers. It facilitates remote computing by simulating some of the characteristics of remote desktop applications. Cloud apps are accessible via web browser and don’t consume storage space on a user’s computer. Examples include Google Drive and Dropbox which allows users to edit, store, and share files, images and links.
+Big Data as a Service (BDaaS)
+The delivery of information or statistical analysis tools by an outside vendor that helps organizations understand and utilize insights gotten from large information sets in order to attain a competitive advantage. Big Data lies within its broad definition of using high velocity, volume, and variety data sets that are difficult to manage and extract value from. Organizations investigating big data regularly recognize that they don’t have the capacity to store and process it adequately. As a result of the big data trend, enterprises can turn to Big Data as a Service (BDaaS) solutions to bridge the processing and storage gap.
+Business Intelligence
+Refers to technologies, practices, and applications for the collection, analysis, integration, collection, and presentation of business information. BI tools access and analyze data sets and present analytical findings in charts, graphs, dashboards, summaries, maps, and reports to offer managers, executives, and other cooperate end-users with detailed intelligence about the state of their business. The need for BI emerged from the concept that decision-makers with incomplete or inaccurate information tend to make worse decisions than if they had more information. Companies that utilize BI practices can translate their collected data into insights for their business processes. The insights can then be used to generate strategic business decisions that enhance productivity, accelerate growth, and increase revenue.
+BYOD (Bring Your Own Device)
+A growing trend towards the use of employee-owned to connect to organizational networks and access work-related systems and potentially confidential or sensitive data. It is part of a larger IT consumerization trend in which consumer hardware and software are being brought in the enterprise. BYOD can occur under the radar in the form of shadow IT; however, more and more organizations are leaning towards the implementation of BYOD policies. More specific variations of the term include bring your own apps (BYOA), bring your own laptop (BYOL) and bring your own apps (BYOA).
+Cloud as a Service (CaaS/Cloud Service)
+Cloud computing terms CAAS or Cloud Services refers to any resource that is made available to an end user over a network, typically the internet. The most common cloud service resources include Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+Cloud Architect
+IT professionals charged with building and deploying strategies, plans and applications relating to and within an organization’s increasingly complex cloud technologies. They typically report to senior-level staff, such as an IT director, while also fostering relationships with customers and working closely alongside other members of the technology team, including developers and DevOps engineers. It is a constantly evolving field, and the job requires someone who can keep up with the latest technologies and trends.
+Cloud Automation
+A term that refers to the tools and processes an organization utilizes to reduce the manual efforts linked to the provision and management of cloud computing workloads. Automation seeks to make all cloud computing activities as efficient and fast as possible via the use of different software automation tools which are directly installed on the virtualization platform and controlled through an interactive interface. For most enterprises, their cloud computing resources are too complex to manage and control in real-time. As organizations continue to move their operations into the cloud, the role of cloud automation will become more crucial.
+Cloud Backup (online backup)
+The process of backing up data by sending a copy of the data to a remote, cloud-based server over a public or proprietary network.
+Cloud Bridge
+refers to a secure IPSEC VPN tunnel that connects two or more cloud environments to facilitate communication between them. It’s commonly used to connect private infrastructure to a service providers’ infrastructure, in order to power communication between private and public clouds. The consequent hybrid cloud environments allow users to leverage and benefit from both cloud types.
+Cloudburst
+A quality of service metric used to gauge the scalability and performance of cloud applications within hosted cloud platforms. A positive cloudburst indicates that the cloud-based application is efficient and capable of managing application scalability. A negative cloudburst indicates an inability to handle a spike in demand.
+Cloud Browser
+A cloud-based combination of a web browser app with a virtualized container that implements the idea of remote browser isolation. A Cloud browser, located within a cloud platform’s data center, essentially acts as a proxy between the target web server and a user. An end-user requests a page from the target server and processes the response. The only traffic getting back to the end-user is a near real-time streamed image of the requested page, not the code itself. By placing a web browser in the cloud, it becomes more cost-effective, manageable, scalable, secure and centralized. Cloud browsers are mostly used by security-sensitive organizations. In the United States, several law enforcement and government entities, use Authentic8-provided browser isolation to secure their missions, as do multiple medium-sized and large companies in highly regulated industries.
+Cloud Cartography
+Refers to the act of figuring out the physical locations of hardware installations used by cloud computing vendors. The end goal of cloud cartography is to map the vendor’s infrastructure and identify where a specific virtual machine (VM) is likely located. In theory, hackers can use cloud cartography techniques to find the location of virtual machines and then create what are referred to as side-channel attacks. A side-channel attack allows them to corrupt data or extract information on the target virtual machine. The attack exploits vulnerabilities in firmware or virtualization software.
+Cloud Engineer
+An IT professional responsible for any duties related to cloud computing, including planning, design, management, and maintenance. They may also be tasked with assessing an organization’s infrastructure and migrating different functions to a stable and reliable cloud-based system. The demand for cloud engineers is on the rise, as more companies move crucial business applications and processes to private, public and hybrid cloud infrastructures.
+Cloud bursting
+An application deployment model in which applications running on a private cloud ‘bursts’ into a public cloud when there is a spike in computing demand. Organizations typically experience varying workload levels causing fluctuations in the use of cloud applications. Cloud bursting utilizes a hybrid cloud deployment that enables an organization to only pay for extra compute resources when they need it. A good example would a retail company that uses a private cloud for daily operations but burst into a public cloud during peak periods like holiday seasons. image_thumb
+http://www.filecloud.com/blog/wp-content/uploads/2015/12/baas-apis-curtesy-of-backendlesscom.png
+
+Cloud Foundry
+An open-source Platform as a Service (PaaS) that was initially developed in-house at VMware and is now owned by Pivotal Software, which is a joint venture between General Electric, EMC and VMware. Cloud Foundry is highly customizable, enabling developers to code in multiple frameworks are languages; this greatly minimizes the potential for vendor lock-in, which is a common concern with PaaS.
+Cloud governance
+Refers to the process of applying and managing certain principles or policies on cloud computing to ensure they maintain the requisite security standards. The main goal of cloud governance and compliance is to safeguard user interests and ensure cloud services are managed, distributed and delivered in the best way possible.
+Cloud IDE
+A cloud-based programming environment that mimics a regular Integrated Development Environment (IDE), typically consisting of a code editor, debugger, compiler, and a graphical user interface (GUI) builder. Cloud IDEs facilitate real-time collaboration between dev teams to work in a unified development environment that reduces incompatibilities and improves productivity. They are easily accessible via web browsers and users can leverage the power of clusters, which can potentially exceed the processing power of a single development computer.
+Cloud Integration
+A system of technologies and tools that connects different systems, applications, and IT environments for the real-time exchange of processes and data. Once coupled, the integrated cloud services and data are readily accessible, and can be viewed and analyzed along with data from on-premise applications. Integration should be extended for all use cases that involve the transfer of data to enterprise applications. This is especially important for really heavy workloads, like when data scientists incorporate new digital assets into their workflows or marketing teams track real-time events to launch new channels or extrapolate meaningful insights.
+Cloud insurance
+is a risk management approach that involves a promise of financial remuneration in the event of failures or downtime on the part of the cloud computing service provider. Cloud insurance is typically included in the service-level-agreement.
+Cloud Economics
+A branch of knowledge that covers the costs, principles, and benefits of cloud computing. This allows organizations to save money and re-invest it in innovation or expansion. IT decision-makers within an enterprise have to closely examine the economics of migrating to the cloud before deciding whether or not to invest in the time and expertise needed to maximize cloud investments.
+Cloud Load Balancing
+The process of distributing computing resources and workloads across several application servers that are running in a cloud environment. Like other forms of load balancing, cloud load balancing allows you to maximize application reliability and performance; but at a lower cost and easier scaling to match demand, without loss of service. This helps ensure users have access to the applications they need, when they need them, without any problems.
+Cloud Manageability
+is the control limit a user has over the overall cloud resources. It may, for instance, refer to the ability of the user to control the performance and amount of resources consumed on cloud computing processes. Private cloud environments are considered to be significantly more manageable than public cloud environments.
+Cloud Management Platform (CMP)
+An integrated product that allows users to manage public, private and hybrid cloud environments. CMPs typically incorporate self-service interfaces, provision system images, enable billing and metering, and provide some level of workload optimization via established policies. A cloud management platform can help an enterprise adjust to a more complicated cloud-centered IT strategy.
+Cloud Marketplace
+is an online marketplace operated by a cloud service provider (CSP) , where customers can browse and subscribe to software apps and services that are built on, integrate with  or complement the CSP’s main offering. The cloud apps are created by third-party developers and approved by the CSP. Examples of cloud marketplaces include: AWS Marketplace, Oracle Marketplace, Salesforce AppExchange and Microsoft Windows Azure Marketplace.
+Cloud migration
+A basic terminology of cloud computing, cloud migration is the process of transferring applications, data or other business elements from a company’s on-site premises behind a firewall to the cloud, or moving them from one cloud environment to another (cloud-to-cloud migration). Richard Watson, a lead analyst at Gartner pointed out that once a CIO makes the decision for cloud migration they,
+“Must consider an organization’s requirements, evaluation criteria, and architecture principles”
+Cloud Native
+(Native Cloud Application/NCA) is an application that has been specifically developed for cloud platforms. They are designed to reap that maximum services and functionality of cloud computing and virtualization infrastructure, which are composed of loosely-coupled cloud services. According to Cloud Foundry CEO Sam Ramji,
+“Cloud-native applications are meant to function “in a world of cloud computing that is ubiquitous and flexible.”
+Cloud operating system (cloud OS)
+refers to a specialized operating system that that manages cloud computing and virtualization environments. It provides all the common services required by applications running within a virtual machine. An example is Microsoft’s Windows Azure. The term cloud OS can also be used to describe the lightweight operating system designed for tablet PCs or netbooks- such as Google’s chrome book, that access data and Web-based applications from remote servers. An example is Chrome OS.
+Cloud-Oriented Architecture (COA)
+is a conceptual model made up of interrelated entities and elements networked to form a cloud environment. COA defines all the systems and procedures that facilitate the overall cloud environment.
+Cloudlet
+A new architectural element that arose from the convergence of IoT, mobile computing and cloud computing. It provides a way to move cloud computing capacity closer to intelligent devices at the edge of the network, by acting as the middle tier of a three-tier hierarchy, I.e intelligent device, cloudlet, and cloud. The main purpose of a cloudlet is to enhance the response time of applications running on mobile devices by utilizing high-bandwidth wireless connectivity, low latency, and hosting cloud computing resources, like virtual machines, physically closer to the devices accessing them.
+Cloud Platform
+refers to a service hosted and distributed by a third party service provider to facilitate the processing and deployment of apps without the complexity and cost of acquiring, installing and maintaining underlying software and hardware layers.
+Cloud Portability
+is the ability to migrate data and applications between different cloud environments without disrupting standard processes and operations. Cloud portability facilitates cloud-to-cloud migration.
+Cloud Provider (CSP)
+is a company that delivers cloud computing services to individuals or businesses via an on-demand, pay-as-you-go systems as a service; typically as Platform as a Service (PaaS), Software as a Service (SaaS), or Infrastructure as a Service (IaaS).
+Cloud Provisioning
+refers to the deployment and integration of an organization’s cloud computing services within its infrastructure. The cloud services in question can be hybrid, public or private solutions. An organization may choose to host some services and applications within the public cloud while others remain on site behind the firewall.
+Cloud Pyramid
+refers to the overall systematic set of interdependent layers which collectively make up the cloud environment. Typically, the underlying layers support the overlying layers. Cloud Pyramid
+
+
+Cloud Security
+refers to a set of control-based measures, policies and technologies designed and implemented to protect cloud infrastructure, applications and data. To limit potential compromises, they have to adhere to a set of compliance rules. Examples of cloud security measures include password protection and data encryption.
+Cloud Security Alliance:(CSA)
+is a non-profit organization that is dedicated to raising awareness of best practices for securing cloud computing environments. CSA leverages the subject matter expertise of industry practitioners, governments, associations and its individual and corporate members to provide cloud security-specific certification, education, research, products and events.
+Cloud Sourcing
+is the process of outsourcing specialized cloud services, products and resources to third parties for deployment, maintenance and provision of individual services. Service providers engage in this by cloud sourcing some of their services to other service providers.
+Cloud Standards
+are an acceptable technological and service level of quality which applies to various cloud service providers according to their individual resources and service delivery. It’s regulated by the International Organization for Standardization (ISO).
+“VMware firmly believes that adoption of open cloud standards is one of the keys to unlock the full and global potential of cloud computing.” ~ Winston Bumpus, Director of Standards Architecture at VMware
+Cloud Storage
+is a data storage model whereby data is saved in third party managed physical storage servers which are remotely accessible. Managed by cloud service providers, the physical storage servers usually span multiple layers and are allocated according to the storage needs of individual users.
+Cloudstorming
+is the act of connecting multiple cloud computing environments.
+Cloud testing
+is a subset of software testing that uses simulated, real-world traffic to perform performance and load testing on cloud-based application and services. Cloud testing is conducted in order to guarantee optimal scalability and performance under a vast variety of conditions. Cloud testing
+fig 1.3
+
+Cloudwashing
+is the purposeful and at times deceptive act of rebranding an old service or product by associating the word ‘cloud’, in an attempt to attract new subscription from unsuspecting clients.
+Cluster
+refers to a group of linked servers and other resources that work together as if they were a single system. Clustering is a popular strategy for implementing parallel processing and high availability through fault tolerance and load balancing.
+Cluster controller
+is a control unit that manages the remote communications processing for several workstations or terminals.
+Compliance
+is the process of conforming to the decisions and policies set by regulatory bodies. The policies are typically derived from internal directives, requirements and procedures, or from external laws, agreements, standards, regulations and agreements.
+Community cloud
+refers to a multi-tenant infrastructure that is shared among a limited set of individuals or organizations (like heads of trading firms or banks). While the organizing principle of community may vary, the members typically share similar performance, privacy, security and compliance requirements such as audit requirements.
+Container registry
+A central place for your team to manage container images, perform vulnerability analysis, and decide on who has access to what with fine-tuned access controls. During the CI/CD process, developers should have access to all the container images required for an application. Hosting all the container images in a single instance enables users to identify, commit and pull images when they need to.
+Content Delivery Network: ( Content Distribution Network/CDN )
+is a system of distributed servers that used geographical proximity to provide alternative server nodes for users to download resources. Each node in a CDN caches static content like JavaScript/CSS files, images and other structural components. CDNs account for a vast amount of content available to end-users online. Companies such as Amazon and Microsoft operate their own CDNs to complement their various cloud offerings.
+Container
+is a virtualization instance in which the virtualization layer runs as an application within a shared operating system, enabling the use of multiple isolated user-space instances. As opposed to virtual machines (VMs), containers don’t require a full OS for every instance. A popular example is Docker. According to Docker CEO, Ben Golub-
+“I think [containers] are enabling developers to be able to put all their energy into creating amazing applications, rather than worrying about the minutiae of how they are going to run and how they are going to scale and it is a beautiful thing”
+docker-vm-container
+fig 1.4
+
+Customer Relationship Management (CRM)
+is a term used to refer to the technologies, practices and technologies that an enterprise uses to manage relationships with current and future customers by providing the business with tools to manage  and analyze customer data and interactions. If properly used, a CRM can improve business relationships with customers, increase the customer retention rate and improve profitability.
+Customer self-service:
+is a cloud feature provided by a cloud service provider to enable customers to remotely retrieve information and execute simple support tasks without the help of an additional customer care representative. The main objective of the service is empowering customers to cater to some of their needs without third party technical help.
+Data Breach
+A security incident in which confidential, sensitive, or otherwise protected information is accessed or disclosed without authorization. Data breaches may involve personally identifiable information (PII) or personal health information (PHI), intellectual property or trade secrets. Businesses and corporations are extremely attractive targets for cybercriminals, mainly due to the vast amounts of data that can be nicked in one fell swoop. If a data breach results in the violation of industry or government compliance mandates, the offending company could possibly face fines or other civil litigations.
+Data Classification
+A diverse process of categorizing and sorting data into various forms, types or any other distinct class, based on various criteria or methods. The process is particularly important when it comes to data security, compliance, and risk management.
+Data Center
+refers to virtual or physical infrastructure used by an enterprise to house and maintain back-end information technology infrastructure such as servers and networking systems; for the storage, management and dissemination of data and information pertaining that particular enterprise.
+Data Loss Prevention (DLP)
+refers to a suite of tools designed to ensure that critical corporate data is only accessed by authorized users and there are safeguards against data leak. DLP applications utilize business rules to protect and classify critical and confidential information so that end-users cannot maliciously or accidentally share critical information. DLP policies are a crucial component of an organization’s comprehensive security measures.
+Data Controller
+A person, company, or body that determines the purposes for which and the manner in which any personal data is processed. They are the manager of personal data and they instruct the processor. A data controller ideally works in their own autonomy, processing collected data via its own processes. However, In some instances, a data controller has to work with an external service or a third party. Under the GDPR, the Data Controller is responsible for ensuring that personal data that falls under their ambit complies with the regulations.
+Data Migration
+is the process of moving data between storage systems, data centers, servers or formats. Data migration is typically done to replace or upgrade servers or storage equipment, relocate a data center, or conduct server maintenance. Scripts or software apps are used to map system data for automated migration.
+Disaster Recovery Plan (DRP)
+is the area of security planning that deals with protecting an organization from the effects of major disasters that destroys part or all of its resources; including data records, IT equipment and the organization’s physical space. A data recovery plan maps the quickest and most effective way work can be resumed after a disaster.
+Desktop-as-as-Service (DaaS)
+is a cloud computing service in which the back-end of virtual desktop infrastructure (VDI) is outsourced and handled by a third party CSP.  In a DaaS delivery paradigm, the service provider is responsible for managing all back-end responsibilities, including data storage, security, upgrades and backup. The service is typically provided on a subscription basis.
+DevOps ( Development and Operations )
+is a term that is being used in several different ways; in its most broad definition, DevOps is simply a philosophy that emphasizes communication, collaboration and integration between software development and IT operations with the goal of streamlining software development and quality assurance. A DevOps technology stack may include configuration tools like Chef and Puppet, a repository such as GitHub for version control, indexing tools such as Splunk and scripting languages like JavaScript, PHP and Perl. Dev-OPs
+fig 1.5
+
+Distributed Computing
+Is a computing concept in which the components of a software system, such as applications and data are distributed among multiple computers to improve performance and efficiency. Distributed computing relies on network services and interoperability standards that specify how they communicate with each other.
+Data Ownership
+Having control and legal rights over a single piece or a set of data elements. The data owner is accountable for the data within a specific data domain. It defines the provision and definition of the rightful owner of data assets and the acquisition, distribution, and use policy implemented by the data owner. Data is essentially an asset that belongs to the enterprise, but it still needs to be managed. Some organizations assign ‘owners’ to their data while others shy away from the concept.
+Data Protection Impact Assessment (DPIA)
+A method for identifying and minimizing potential privacy risks within an organization. The EU’s GDPR includes multiple new rules (and some old ones) that companies have to follow in order to keep their customer’s personal information secure. Performing a DPIA for all your high-risk data processing activities is a sure-fire way of demonstrating to authorities that your organization complies with the GDPR.
+Data Processor
+Any person (aside from the employee of the data controller) who processes data on behalf of the data controller. The data processor doesn’t own the data the process nor do they control it. This basically means that the data processor is incapable of changing the purpose and means in which the data is used. Additionally, data processors are bound by the instructions their data processor gives them. Under the GDPR, the data controller and processor have several similar duties and have to adhere to similar principles.
+Data Protection
+Refers to the safeguards, practices, and binding rules that are established to secure personal information against loss, compromise, or corruption; and while ensuring it remains under the organizations’ control. A key component of a data protection strategy is making sure that data can easily be restored quickly and efficiently in the event of loss or corruption.
+Data Protection Officer (DPO)
+An enterprise security leadership role required by the GDPR. Data Protection Officers are tasked with overseeing a company’s data protection strategy and its execution to guarantee compliance with GDPR requirements. While the DPO is an integral part of the organization, they should be able to operate independently. The DPO helps the controller or processor in all matters pertaining to the protection of personal information. They mustn’t receive any instructions from the processor or controller for the implementation of their tasks. The DPO reports directly to the highest authority within the organization.
+Data Protection by Design
+An approach that guarantees you consider data protection and privacy issues at the design phase of any application, product, process, or service and subsequently throughout the lifecycle. This essentially means that data controllers have to ‘bake in’ or integrate data protection into business activities and processing activities from the design stage and throughout the entire lifecycle. The concept is related to ‘privacy by design’. However, data protection by design is mainly about taking a proactive approach to data protection issues. It helps guarantee compliance with fundamental requirements and forms the basis of accountability.
+Data Steward
+A functional role in data governance, implementation, and management. Data stewards are primarily responsible for managing and overseeing an organization’s data assets to help provide enterprise users with high-quality data that is easy to access in a consistent and proficient manner. They have a specialist role that encompasses guidelines, processes, policies, and responsibilities for administering an organization’s data in compliance with policy and regulatory obligations. While data governance typically focuses on high-level procedures and policies, data stewardship focuses on tactical implementation and coordination.
+Data Subject
+Any individual who can be directly or indirectly identified, via an identifier like a name, location data, ID number, or via factors specific to the individual’s genetic, physiological, mental, social or cultural identity. Under the GDPR, the data subject has the right to access their data and can inquire whether or not their data is being processed. Automated profiling or decisions are also restricted within the GDPR. This means a data subject has the right to not be evaluated on the basis of automated processing. Other fundamental rights accorded to a data subject include the right to data portability, the right to restrict processing, the right to reflection, and the right to be forgotten among others.
+Data Portability
+The fundamental right of the data subject (typically an individual) from one controller to another, I.e. varying computing environments, application programs, or cloud services. Data portability allows individual end-users or businesses to seamlessly migrate, interlink and integrate data sets within disparate systems. Failure to provide data portability not only negatively impacts the establishment of trust-worthy services with data subjects but also comes with huge costs.
+Decision Support System
+A computerized application used to support courses of action taken in a business or organization. A well-built DSS helps decision-makers compile a variety of data from several sources: documents, raw data, business models, management, and personal knowledge from employees. The DSS can either be computerized or powered by humans. In some cases, it may be a combination of both. The ideal systems analyze data and actually make decisions for the end-user.
+Data Integrity
+The overall completeness, accuracy, and consistency of data. It also refers to the safety of data in regards to regulatory compliance. All characteristics of the data have to be correct – including relations, business rules, definitions, dates, and lineage, for it to be considered complete. Data integrity is typically imposed at the database design phase via the use of standard rules and procedures. It can be compromised in multiple ways, every time data is transferred or replicated, it has to remain unaltered and intact between updates. Error checking methods and validation procedures are usually relied on to make sure the integrity of the data being reproduced or transferred is not altered.
+DNS manager
+Is an application that controls Domain Name System (DNS) records and server clusters enabling domain name owners to control them easily. DNS management software greatly reduces human error when editing repetitive and complex DNS data. Using DNS management, one website can command the services of multiple servers.
+Elasticity
+refers to the ability of a program, service or resource to be conveniently expanded or resized to support the short-term, tactical needs of an organization.
+Elastic computing: ( EC )
+Is a cloud computing concept where a cloud service provider distributes flexible resources which can either be scaled up or down according to user preferences and needs. It may also refer to the ability to provide flexible resources which can be expanded or resized when needed. Some of the affected resources include bandwidth, storage and processing power.
+Encryption:
+is the conversion of data into ‘cipher text’, which can only be read after it has been decrypted using a special key or password. Encryption is the most secure way to protect information assets.
+Enterprise application
+is an application that is built to operate in a corporate environment like a government or business. Such applications are component-based, scalable, complex, distributed and mission critical. They are typically designed to seamlessly integrate with other enterprise apps, and to be deployed across various networks (corporate networks, intranet and internet). Enterprise applications are also user friendly, and meet the strict administration management and security requirements of an enterprise.
+Enterprise File Sharing and Synchronization (EFSS)
+refers to cloud-based capabilities that allows enterprise employees to share and synchronize files, videos, photos and documents to be stored in an approved repository, then accessed remotely from multiple devices like PCs, tablets and smartphones. Organizations view EFSS as a means to discourage their employees from sharing corporate data via public cloud storage and file sharing services. Click here to download (free) Gartner Magic Quadrant for EFSS report
+Enterprise-grade
+is a term used to describe products that can seamlessly integrate into enterprise infrastructure with minimum complexity and offer transparent proxy support.
+Enterprise Mobility
+is a phrase used to describe the growing trend towards a shift in work habits, with employees opting to work out of the office using mobile devices and cloud devices to remotely perform business tasks.
+Enterprise Mobility Management ( EMM )
+is an approach that encompasses the collective set of policies, technologies, and policies used to maintain and manage the use of mobile devices within an enterprise. By primarily focusing on enterprise governance, management, control and security of mobile technologies within the organization; EMM can help employees improve mobile productivity by equipping them with all the tools needed to remotely perform work-related tasks.
+Enterprise Resource Planning (ERP)
+is a term used to refer to a system of integrated applications that manage a business and automate multiple back office functions related to procurement, product life-cycle, human resources, projects, finance, inventory, supply chain and other mission critical components of a business via a series of interconnected executive dashboards. ERP software can be categorized as an Enterprise Application.
+Enterprise Social Software: (ESS)
+is the general term used to refer to the social networking and collaboration tools used within an enterprise setting. The goal of ESS is to maximize productivity by improving communication, promoting collaboration and saving time. Come common ESS platforms include Microsoft’s Yammer and Salesforce’s Chatter.
+Enterprise storage
+refers to public storage that has been specifically designed to help large organizations save and retrieve digital information. Unlike consumer cloud storage that is typically free or lowly priced, enterprise storage attracts a higher price tag because it’s more reliable and fault tolerant. Enterprise storage is also scalable to serve a larger users base and heavy workloads without slowing down the system.
+Extensibility
+is a design principle where future growth is taken into consideration before implementation. This gives the cloud solution the ability to add new framework and runtime support via community build-packs.
+Fault tolerance
+refers to the ability of a computer system or component to continue working without loss of service in the event of an unexpected error or problem. Fault tolerance can be achieved with embedded hardware, or software, or a combination of both.
+Federated Database
+is a system in which multiple databases seemingly function as one entity; however, each component database in the system exists independently of the others and is completely functional and self-sustained. When the federated database receives an application query, the system figures out which of its component databases contains that data being requested and passes the request to it. A federated database is a viable solution to database search issues.
+File Server
+is the computer exclusively responsible for the central storage and management of files generated or required by other computers in a client/server model. In an enterprise setting, a file server enables end-users to share information over the network without having to physically transfer files using external storage such as flash disks.
+Green cloud
+A relatively new addition to cloud computing dictionary, green cloud is a buzz phrase that is used to refer to potential environment benefits cloud technology can offer society. According to research conducted by Pike Research, the rapid adoption of cloud computing can lead to a 38 percent reduction in worldwide data center energy expenditures.
+Grid Computing
+is a distributed architecture of multiple computers connected to solve a complex problem. Unlike traditional networks that primarily focus on communication between devices, grid computing harnesses the unused processing cycles of connected computers to solve a problem that is too complex for any stand-alone machine. The computers are either directly connected or through scheduling systems.
+Hardware as a Service: ( HaaS )
+refers to the provision of hardware resources which are managed and distributed by third party service providers via a network connection.
+High Availability (HA)
+refers to systems or components that are continuously operational without failure for a long time. The term implies that there are safeguards in place in case of component failures, typically in the form of redundant components.
+Hosted Application
+is a distributed program, typically as Software as a Service, which allows users to remotely operate and execute tasks. It’s usually hosted by physical servers managed by cloud service providers.
+Hybrid Cloud
+is cloud computing environment made up of interlinked public and private clouds which perform distinct operations within the same organization. By facilitating the movement of workloads between public and private clouds, a hybrid cloud architecture provides businesses with greater flexibility and additional deployment options. Hybrid Cloud
+fig 1.6
+
+Hypervisor: ( Virtual Machine Monitor/ VMM )
+is a software application that manages multiple operating systems thus enabling physical devices to share resources among virtual machines (VMs) running on top of the physical hardware. The hypervisor manages the system’s processor, memory and other resources. A Type 1 Hypervisor or Bare Metal Hypervisor runs on top of the physical hypervisor. Bare Metal Hypervisor 
+fig 1.7
+
+A Type 2 Hypervisor or Hosted Hypervisor runs within an operating system that’s running on the physical hardware. Hosted Hypervisor 
+fig 1.8
+
+Infrastructure as a Service: ( IaaS )
+is a fundamental cloud service alongside Software as a Service and Platform as a Service, which encompasses the provision of virtualized computing resources which are remotely accessed through the internet. The resources are deployed and managed by cloud service providers.
+Internal Cloud
+is cloud environment which is entirely hosted by an organization’s infrastructure and dedicated resources. It contains all the relevant cloud components like shared virtualized resources, and is entirely managed by the organization.
+Internet of Things / IoT/ Internet of Everything
+refers to an ever-growing network of physical objects provided with unique identifiers (IP address) and the ability to transfer data over a network without any human interference. IoT extends beyond computers, smartphones and tablets to a diverse range of devices that utilize technology to interact and communicate with the environment in intelligent fashion, via the internet.
+ITAR (International Traffic In Arms Regulation)
+The united state’s regulation that controls the import and export of defense-related services and articles on the United States Munitions List (USML) and is administered by the Directorate of Defense Trade Controls (DDTC). According to the U.S government, all exporters, brokers, and manufacturers of defense services, articles or any other related technical data have to be ITAR compliant. ‘Technical data’ refers to diagrams, plans, photos, and other documentation used to build ITAR-restricted military gear. In order to prevent the disclosure or transfer of sensitive data to a foreign national, ITAR mandates that access to technical data or physical materials related to military and defense technologies is restricted to US citizens only.
+Load Balancing
+is a networking solution for distributing computing workloads across multiple resources, like servers. By distributing the workload, a load balance ensures no server will become the single point of failure. When a single server goes offline, the load balancer simply redirects all incoming traffic to the other available servers. Load balancing can be implemented with software, hardware, or a combination of both.
+Middleware
+is the software that links up different enterprise applications or software components. It lies between the OS and programs on either side of a distributed computer network.
+Microsoft Azure
+formerly known as windows Azure is Microsoft’s cloud computing platform. It offers both IaaS and PaaS services.
+Multi-tenancy
+is a computing architecture where multiple instances (tenants) operate in a shared environment. A tenant may be given the ability to customize various parts of the application such as the business rules or user interface (UI), but they don’t have access to the applications base code. Due to the cloud’s on-demand nature, most services are multi-tenant.
+“Multi-tenancy is the core tenet of cloud computing…its ongoing efforts to scale up these mainframe concepts to support thousands of intra- and inter- enterprise tenants (not users) are complex, commendable and quite revolutionary” ~ Sreedhar Kajeepeta, Vice President and CTO of technology consulting at Computer Sciences Corp.
+On-demand Computing (ODC)
+is a computing model where computing resources like software and storage are availed in real time, as necessary. ODC enables users to provision raw cloud resources at run time, where and when needed. Any resource adjustments are usually executed in live environments without affecting on-going operations.
+OpenStack:
+is a free and open-source infrastructure as a service (IaaS) initiative for creating and managing large pools of storage, processing and networking resources in a data center. The project was initially started by Rackspace and NASA but has now become a global collaboration of technologists and developers.
+Personal Cloud (Consumer Cloud)
+refers to a collection of personal digital content –videos, photos, files and services that can be remotely accessed via multiple devices. Devices like smartphones, smart TVs, gaming consoles, etc. are interconnected by a network, through which they access files and data from a central secure and private storage.
+Platform as a Service (PaaS)
+is a cloud service managed by third party service providers, that’s distributed to provide platforms where users can host, run, develop or test their own programs without worrying about the complexities and costs of acquiring support infrastructure. Examples include Apache Stratos, Google App Engine, Force.com, Heroku, Windows Azure and AWS Elastic Beanstalk.
+Public Cloud
+Definition of public cloud is a cloud environment shared by many users at the same time, where resources are distributed according to the server slices bought by the respective users. Such resources are typically accessed through password protected accounts.
+Personal Data
+Any information that relates to an identifiable or identified individual who could be identified directly or indirectly based on their data. Personal data that has been encrypted, de-identified or pseudonymized but can be used to re-identify an individual remains personal data and falls within the scope of the GDPR. Personal data that has been rendered anonymous in a way that the person is no longer identifiable ceases to be considered personal data. For data to be truly be anonymized, the anonymization has to be irreversible. If the information that seems to relate to a specific individual is inaccurate (i.e. it is incorrect, faulty or about another individual ), the information is still considered personal data as it relates to that individual.
+Personally Identifiable Information (PII)
+Any data that when used alone or with other relevant data, could potentially identify a particular person. Not all PII is equal in terms of sensitivity or importance. For example, your social security number is unique to you, making it crucial to your identity. However, while your name falls under PII, it’s not as sensitive as your social security number. None sensitive PII can be transmitted in an unencrypted format without causing harm to the individual. Sensitive PII has to be encrypted when data is at rest and in transit. PII is mostly used in the United States while the term personal data is used in Europe. Personal data covers a larger scope than PII-based data.
+Predictive Analytics
+A branch of advanced analytics used to make predictions about future events, via varying techniques from modeling, statistics, machine learning, data mining, and artificial intelligence. It emerged from a need to convert raw data into informative insights that can be used to understand past trends and patterns and provide a model for accurately forecasting future outcomes. It predicts what might occur in the future with an acceptable level of reliability, and includes risk assessment and what-if scenarios.
+Prescriptive Analytics
+The use of technology to help organizations make informed decisions via the analysis of raw data. Prescriptive analytics tries to quantify the effect of future decisions in order to advise on possible outcomes before any decisions are actually made. It factors in data about current performance, past performance, available resources, and possible scenarios, then suggests a course of strategy or action. While predictive analytics focuses on ‘what could happen’, prescriptive analytics focuses on ‘what should we do’.
+Scalability
+refers to a system’s ability to maintain full functionality despite a change in size or volume. Unlike elasticity that meets short-term, tactical needs, cloud scalability supports long-term, strategic needs.  A scalable application should be able to efficiently function when expanded or shifted to a bigger operating system. Cloud scalability enables businesses to meet expected demand for services without the need to for large up-front infrastructure investments.
+Software as a Service (SaaS)
+is a centrally hosted application distributed by service providers over the internet for users to utilize on a subscription basis. Examples include Concur, Workday, Salesforce and Google Apps.
+Shadow IT
+Software or hardware within an enterprise that is utilized and managed without the knowledge of the organization’s central IT department. Shadow IT has been propagated by the rapid adoption of consumer-based cloud services. Employees have become comfortable using services and apps from the cloud to increase their productivity. Shadow IT can introduce security risks since the hardware and software are not subject to the same stringent security measures are supported technologies.
+Service Level Agreement (SLA)
+is a contract between a user and service provider that comprehensively defines all the critical aspects of the service including responsibilities, quality and scope.
+Testing as A Service
+An outsourcing model where testing activities associated with some of an enterprise’s business activities are outsourced to a third party that specializes in simulating real-world testing environments as per a client’s requirements. The biggest advantage of using TaaS is that it is a highly scalable model. Since it’s primarily a cloud-based delivery model, organizations don’t have to worry about free space for servers, and by leveraging a consumption-based pay model, there is less risk and a higher return on interest.
+Utility Computing
+is a service distribution model where the CSP provides resources to users and fails to charge flat rate subscriptions, but rather on the usage of individual resources. The model is designed to either minimize the cost of resources of maximize their efficient use.
+Vendor lock-in:
+refers to a situation where a client is dependent on a specific cloud service provider and has no ability to move between vendors because there are no standardized protocols, APIs, data structures (schema), and/or service models.
+“With cloud environments, it’s kind of a new level of lock in… You can have your application. It can be standards-compliant for certain interoperability functions. But the actual hosting of the application, the actual requirements for that application to exist in a cloud environment… will be, for the most part, controlled by the cloud provider”  ~ Thomas Erl, CEO of Arcitura Education Inc.
+Vendor-neutral
+is used to describe a state in which the definition, distribution or revision of a specification is not controlled by a single vendor. Vendor-neutral specifications encourage the creation of broadly compatible and interchangeable products and technologies. Vendor-neutrality is made possible through standardization, non-proprietary design principles and unbiased business practices.
+Vertical Cloud
+refers to a cloud that has specialized to meet the specific needs of a particular vertical (industry). All the functions are options provided by the CSP are tailored to meet industry use.
+Virtual Desktop Infrastructure (VDI)
+is a term used to refer to a virtualization technique that involves hosting a desktop operating system within a virtual machine running on a centralized server in the data-center. It provides users with fully personalized desktops with all the simplicity and security of centralized management. The term was initially coined by VMware Inc.
+Virtual Machine(VM)
+is a software computer that runs an application environment or full operating system while exhibiting the behavior of physical hardware. A VM provides end users with the same experience as dedicated hardware. It’s typically comprised of a set of configuration and specification files and is backed by the physical resources of a host.
+Virtual Private Cloud (VPC)
+is a cloud model where the service provider isolates various public cloud components to form individual private cloud environments. It’s a public cloud environment which has been configured to support and host a private cloud environment. A good example of this is the Amazon Virtual Private Cloud. VPC
